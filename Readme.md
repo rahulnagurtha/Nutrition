@@ -1,1 +1,1 @@
-This is my notes related to the [UIUC nutrition course](https://www.coursera.org/learn/putting-the-personal-in-personalized-nutrition) on Coursera.
+This is my notes for [UIUC nutrition course](https://www.coursera.org/learn/putting-the-personal-in-personalized-nutrition) on Coursera.
