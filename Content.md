@@ -61,7 +61,7 @@ Some carbs are healthier than others, its better to avoid refined foods with sug
     * Plant Proteins: Except Soy, others miss some essential acids and hence called **incomplete proteins**. Examples include beans, soy, nuts and some grains. You can combine these with others to make it complete protein, for example you can combine rice and beans.
 * Recommended Intake: 20 to 35% of Total Daily Calories
 
-## Fats 
+# Fats 
 
 * Composed of C, H, and O 
 * Metabolized to H2O and CO
@@ -83,3 +83,56 @@ Some carbs are healthier than others, its better to avoid refined foods with sug
     * Women: 11.5 Cups/90 Ounces or 2.7 Liters
     * Men: 15.5 Cups/124 Ounces or 3.7 Liters
 * About 80% should come from liquids and 20% from fruits and vegetables
+
+
+# Vitamins
+
+Vitamins are crucial for maintaining good health and warding off diseases. There are a total of 13 essential vitamins, which are classified into two categories:
+
+* **Fat Soluble Vitamins:** These vitamins are stored in our body fat.
+* **Water Soluble Vitamins:** These vitamins are not stored in the body and any excess is excreted through urine.
+
+
+Vitamins play a multitude of roles in our body, including:
+
+* Supporting healthy vision
+* Maintaining skin health
+* Promoting strong bones
+
+
+The best way to get your daily dose of vitamins is through a diverse and balanced diet rich in fruits and vegetables.
+
+##### Vitamin Supplements
+
+If you consider taking vitamin supplements:
+
+* Opt for supplements that provide no more than 100% of the recommended daily intake.
+* Be cautious with fat-soluble vitamins as taking high doses through supplements can lead to toxicity.
+
+
+# Minerals
+
+Minerals, similar to vitamins, are crucial for supporting various bodily functions, including:
+
+* Building strong bones and teeth
+* Regulating metabolism
+* Maintaining proper hydration
+
+
+To ensure you're getting all the necessary minerals:
+
+* Aim for a diverse diet that includes both plant-based and animal-based foods.
+* Consider taking iron or calcium supplements if needed.
+
+
+# Nutrient Density
+
+Nutrient density refers to the amount of nutrients (such as vitamins, minerals, and fiber) provided by a food in relation to its calorie content. In other words, it measures the nutritional value of a food per unit of energy it provides. Choosing foods that are nutrient-dense should be a priority to meet our nutrient needs. Foods higher in fat, sodium, and added sugar tend to have lower nutrient density. 
+
+
+Nutrient-dense foods are vital for a healthy diet because they:
+
+* Meet nutrient needs: Provide essential vitamins and minerals for optimal body function.
+* Promote optimal health: Support the immune system, bone and muscle health, and overall well-being.
+* Aid weight management: Tend to be lower in calories, promoting satiety and reducing overeating.
+* Prevent diseases: Lower the risk of chronic diseases due to their antioxidants and phytochemicals.
